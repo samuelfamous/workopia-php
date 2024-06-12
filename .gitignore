@@ -1,0 +1,6 @@
+/vendor : used by composer
+/node-modules : used for node package manager
+/ env : used for environment variables
+/ .vscode : used for customisizing vscode setting
+/ .DS_store : used in MACOS
+/ config/db.php : used for db creditentials
